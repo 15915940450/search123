@@ -1,0 +1,23 @@
+{
+  "name": "search123",
+  "version": "1.5.9",
+  "description": "简拼/全拼/汉字",
+  "main": "test.mjs",
+  "scripts": {
+    "test": "node ./test.mjs",
+    "t": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15915940450/search123.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15915940450/search123/issues"
+  },
+  "homepage": "https://github.com/15915940450/search123#readme",
+  "dependencies": {
+    "js-pinyin": "^0.2.7"
+  }
+}
